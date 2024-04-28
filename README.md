@@ -13,7 +13,7 @@ File Copier 2.0 is an enhanced version of File Copier. It allows you to select m
 
 - It also shows the log for all moved files (may require lots of scrolling if you're up to it.)
 
-*The script interface will look like this with these options*:
+*The script options will look like this with these options*:
 
 ![21](https://github.com/XxDeadlYxX/Easy-Copy/assets/121805536/a3e0d909-2f2c-4bf5-9da5-c888ae6bc064)
 
